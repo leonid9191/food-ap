@@ -4,7 +4,7 @@ Food App is a responsive web application that allows users to search for recipes
 #### GitHub page
 https://leonid9191.github.io/food-app/
 
-![Alt text]('./src/images/promo.mp4')
+![Alt text](./src/images/promo.mp4)
 
 ## Features
 Recipe search by ingredients and dietary restrictions
