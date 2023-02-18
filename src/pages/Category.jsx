@@ -20,7 +20,7 @@ function Category() {
                 {' '}
                 Go back
             </button>
-            {!meals.length ? <Preloader /> : <MealList meals={meals} />};
+            {!meals.length ? <Preloader /> : <MealList meals={meals} />}
         </>
     );
 }
